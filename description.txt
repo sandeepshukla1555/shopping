@@ -1,0 +1,9 @@
+Hi all i am sandeep shukla i am a front-end developer inhave used technologies in this project below:
+1. HTML
+2. CSS
+3. TailwindCSS
+4. Java script
+5. ReactJS
+6. Redux
+7. Redux Saga
+8. React Icon
